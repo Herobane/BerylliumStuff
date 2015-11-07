@@ -1,0 +1,14 @@
+item.beryllium_sword.name=Espada de berilio
+item.beryllium_ingot.name=Lingote de berilio
+item.beryllium_pickaxe.name=Pico de berilio
+item.beryllium_axe.name=Hacha de berilio
+item.beryllium_spade.name=Pala de berilio
+item.beryllium_hoe.name=Azada de berilio
+tile.beryllium_ore.beryllium_ore.name=Mena de berilio
+tile.beryllium_ore.beryllium_ore_nether.name=Mena de berilio del infiernos
+tile.beryllium_ore.beryllium_ore_end.name=Mena de berilio del fin
+tile.beryllium_block.name=Bloque de berilio
+item.beryllium_helmet.name=Casco de berilio
+item.beryllium_chestplate.name=Peto de berilio
+item.beryllium_leggings.name=Grebas de berilio
+item.beryllium_boots.name=Botas de berilio

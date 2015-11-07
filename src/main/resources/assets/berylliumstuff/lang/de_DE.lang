@@ -1,0 +1,14 @@
+item.beryllium_sword.name=Berylliumschwert
+item.beryllium_ingot.name=Berylliumbarren
+item.beryllium_pickaxe.name=Berylliumspitzhacke
+item.beryllium_axe.name=Berylliumaxt
+item.beryllium_spade.name=Berylliumschaufel
+item.beryllium_hoe.name=Berylliumhacke
+tile.beryllium_ore.beryllium_ore.name=Berylliumerz
+tile.beryllium_ore.beryllium_ore_nether.name=Netherberylliumerz
+tile.beryllium_ore.beryllium_ore_end.name=Endberylliumerz
+tile.beryllium_block.name=Berylliumblock
+item.beryllium_helmet.name=Berylliumhelm
+item.beryllium_chestplate.name=Berylliumbrustpanzer
+item.beryllium_leggings.name=Berylliumbeinschutz
+item.beryllium_boots.name=Berylliumstiefel

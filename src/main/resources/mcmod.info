@@ -1,0 +1,16 @@
+[
+{
+  "modid": "BerylliumStuff",
+  "name": "Beryllium Stuff",
+  "description": "Beryllium stuff is a mod who add a new ore : beryllium. With this new ore, you can create new stuff and blocks.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["herobane"],
+  "credits": "The Forge and FML guys, for making this example",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

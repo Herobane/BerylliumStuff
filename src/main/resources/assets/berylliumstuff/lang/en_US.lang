@@ -1,0 +1,14 @@
+item.beryllium_sword.name=Beryllium Sword
+item.beryllium_ingot.name=Beryllium Ingot
+item.beryllium_pickaxe.name=Beryllium Pickaxe
+item.beryllium_axe.name=Beryllium Axe
+item.beryllium_spade.name=Beryllium Shovel
+item.beryllium_hoe.name=Beryllium Hoe
+tile.beryllium_ore.beryllium_ore.name=Beryllium Ore
+tile.beryllium_ore.beryllium_ore_nether.name=Nether Beryllium Ore
+tile.beryllium_ore.beryllium_ore_end.name=Ender Beryllium Ore
+tile.beryllium_block.name=Beryllium Block
+item.beryllium_helmet.name=Beryllium Helmet
+item.beryllium_chestplate.name=Beryllium Chestplate
+item.beryllium_leggings.name=Beryllium Leggings
+item.beryllium_boots.name=Beryllium Boots

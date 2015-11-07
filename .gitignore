@@ -1,0 +1,10 @@
+bin/**/*
+.settings/*
+.git/*
+*.tmp
+tmp/**/*
+*tmp*
+build/**/*
+*.swp
+eclipse/**/*
+

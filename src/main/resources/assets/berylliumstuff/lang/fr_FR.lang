@@ -1,0 +1,14 @@
+item.beryllium_sword.name=Épée en béryllium
+item.beryllium_ingot.name=Lingot de béryllium
+item.beryllium_pickaxe.name=Pioche en béryllium
+item.beryllium_axe.name=Hache en béryllium
+item.beryllium_spade.name=Pelle en béryllium
+item.beryllium_hoe.name=Houe en béryllium
+tile.beryllium_ore.beryllium_ore.name=Minerai de béryllium
+tile.beryllium_ore.beryllium_ore_nether.name=Minerai de béryllium du Nether
+tile.beryllium_ore.beryllium_ore_end.name=Minerai de béryllium du Néant
+tile.beryllium_block.name=Bloc de béryllium
+item.beryllium_helmet.name=Casque en béryllium
+item.beryllium_chestplate.name=Plastron en béryllium
+item.beryllium_leggings.name=Jambières en béryllium
+item.beryllium_boots.name=Bottes en béryllium
