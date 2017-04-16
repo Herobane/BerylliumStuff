@@ -9,6 +9,3 @@ To help me to developpement :
 - please report incorrect translations
 - report bugs, crashes and glitches
 - make suggestions
-
-
-
