@@ -10,4 +10,3 @@ To help me to developpement :
 - report bugs, crashes and glitches
 - make suggestions
 
-(Sorry for the mistakes, I'm French)
